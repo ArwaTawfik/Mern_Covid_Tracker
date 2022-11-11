@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "",
+    "cors": "",
+    "dotenv": "",
+    "express": "",
+    "joi": "",
+    "mongoose": "",
+    "mongoose-auto-increment": "^5.0.1",
+    "nodemon": ""
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "antd-demo",
+  "version": "",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "",
+    "@testing-library/jest-dom": "",
+    "@testing-library/react": "",
+    "@testing-library/user-event": "",
+    "antd": "",
+    "axios": "",
+    "bootstrap": "",
+    "cors": "^2.8.5",
+    "dotenv": "",
+    "jquery": "",
+    "react": "",
+    "react-bootstrap": "",
+    "react-dom": "",
+    "react-router-dom": "",
+    "react-scripts": "",
+    "react-simple-maps": "",
+    "web-vitals": ""
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

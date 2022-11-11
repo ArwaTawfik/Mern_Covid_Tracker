@@ -1,0 +1,13 @@
+h1,
+p {
+  font-family: Lato;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tooltip {
+  color: #ff6e00 !important;
+  background-color: orange !important;
+}
